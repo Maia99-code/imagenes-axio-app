@@ -1,0 +1,29 @@
+.App {
+  text-align: center;
+  margin-top: 50px;
+}
+
+button {
+  background-color: #4CAF50;
+  color: white;
+  padding: 10px 20px;
+  margin-top: 20px;
+  border: none;
+  cursor: pointer;
+  font-size: 16px;
+}
+
+button:hover {
+  background-color: #45a049;
+}
+
+.image-container img {
+  max-width: 300px;
+  height: auto;
+  margin: 20px 0;
+}
+
+.image-container p {
+  font-size: 18px;
+  color: #555;
+}
