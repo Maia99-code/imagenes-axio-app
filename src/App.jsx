@@ -28,7 +28,7 @@ const App = () => {
 
   return (
     <div className="App">
-      <h1>Pokémon Aleatorio</h1>
+      <h1>Imagen Aleatoria</h1>
       <ImageDisplay image={image} loading={loading} />
       <button onClick={fetchRandomPokemon}>Cambiar Pokémon</button>
     </div>
